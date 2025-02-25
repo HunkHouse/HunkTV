@@ -1,0 +1,103 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ABC_East" tvg-name="ABC East" group-title="Entertainment" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/ABC-Logo-1988-2007.png", ABC East
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewYork" tvg-name="NBC New York" group-title="News" tvg-logo="https://m.media-amazon.com/images/I/41neyELeAtL.png", NBC New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8&checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="CBC" tvg-name="CBC" group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdX1RiX9o3lDGK1G6E4tLCUjoIV5XmsTV7A&s", CBC
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/57260?checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="Global" tvg-name="Global" group-title="Entertainment" tvg-logo="https://play-lh.googleusercontent.com/mIX4hgfbxsPs4Nu8Gq_uKA2MivSI3GOyOf0Gb-CvlzDW_jcVdYLypCoJbojHGmLtYkQ", Global
+http://cord-cutter.net:8080/hq3y4G/234247/57302?checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="SportsnetOntario" tvg-name="Sportsnet Ontario" group-title="Sports" tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/Sportsnet-Ontario.png", Sportsnet Ontario
+http://cord-cutter.net:8080/zcJ8BG/214917/57296?checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="SportsnetOntarioBackup" tvg-name="Sportsnet Ontario (Backup)" group-title="Sports" tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/Sportsnet-Ontario.png", Sportsnet Ontario (Backup)
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/57463?checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="SportsnetEast" tvg-name="Sportsnet East" group-title="Sports" tvg-logo="https://archive.org/download/SportsnetEast/sportsnet%20east.png", Sportsnet East
+http://cord-cutter.net:8080/hq3y4G/234247/41836?checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="CBSSports" tvg-name="CBS Sports" group-title="Sports" tvg-logo="https://static.cdnlogo.com/logos/c/10/cbs-sports.png", CBS Sports
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN1" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlCGTblu8K5KYJGBIoqTWlte4zwaHOgFVDA&s", TSN1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN2" tvg-name="TSN2" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQedqnl-roo5XZaX0S9KqmOMFz4h6g95JOq7w&s", TSN2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN3" tvg-name="TSN3" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2EPQGyuO6BzzUviEVIKGl8HgRgar4JFMpw&s", TSN3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN4" tvg-name="TSN4" group-title="Sports" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png", TSN4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN5" tvg-name="TSN5" group-title="Sports" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork5.png", TSN5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" group-title="Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo", ESPN2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork" tvg-name="NFL Network" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png", NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLNetwork" tvg-name="NHL Network" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png", NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/ESPNU_%28Horizontal%29.svg/revision/latest?cb=20230928233052", ESPNU
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg", HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/HBO2_logo.svg", HBO 2
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz" tvg-name="Starz" group-title="Movies" tvg-logo="https://images.squarespace-cdn.com/content/v1/6481e2427d99a120d7205507/1686233758940-17E81VYWVIUS3ZN7BZP2/Starz_Prism_Button_Option_01.png", Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" group-title="Entertainment" tvg-logo="https://variety.com/wp-content/uploads/2017/02/bravo-logo.jpg", Bravo
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="Entertainment" tvg-logo="https://classicsdujour.com/wp-content/uploads/2021/08/mtv.jpg", MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV2" tvg-name="MTV2" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg", MTV2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime" tvg-name="Showtime" group-title="Movies" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/05/showtime-logo.jpg", Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Showcase" tvg-name="Showcase" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Showcase_Logo_2015.png", Showcase
+http://206.212.244.26/live/vasconeves/1742766045/40624.ts
+
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/FXX_Logo.svg", FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXMovies" tvg-name="FX Movies" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/FXM_Logo.svg", FX Movies
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/themovies/images/c/c9/Cinemax_%28Yellow%29.svg.png/revision/latest?cb=20180415140157", Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="Comedy Central" group-title="Entertainment" tvg-logo="https://yt3.googleusercontent.com/8r6U3iwDzCuSbNzXbJrni04RdfFQWLYbjq0xyrIJtEI8_jyaLM4JMqdERswsqOsRIUjZtDKj=s900-c-k-c0x00ffffff-no-rj", Comedy Central
+https://strm.hdtvizlecanli.com/live/comedy.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/NyNEDUf6vZUw91UA78V8mbKfalM9ufJ2laC5FmPkofOAA6fW9aXRJvOEfeIUkAEI41Yax0xA=s900-c-k-c0x00ffffff-no-rj", Disney Channel
+http://96.45.207.18:8881/channel/n7323ea49/index.m3u8?q=1735600584362
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/HBO_Family_Asia_logo.svg", HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+http://fortv.cc:8080/30550113/30550113/57356
+
+#EXTINF:-1 tvg-id="NickJR" tvg-name="Nick Jr." group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/5Oe6GeP0RS7YYXlcSqCoBCyzYYtoxSgmN0K_FXQTBOY9tutzr5G1mXjfSmi76YAE3Q8WZXNByQ=s900-c-k-c0x00ffffff-no-rj", Nick Jr.
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="YTV" tvg-name="YTV" group-title="Kids" tvg-logo="https://makerkids.com/wp-content/uploads/2015/12/LogoTV.png", YTV
+http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
