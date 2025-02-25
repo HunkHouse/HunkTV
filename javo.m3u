@@ -87,6 +87,12 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral" tvg-name="Comedy Central" group-title="Entertainment" tvg-logo="https://yt3.googleusercontent.com/8r6U3iwDzCuSbNzXbJrni04RdfFQWLYbjq0xyrIJtEI8_jyaLM4JMqdERswsqOsRIUjZtDKj=s900-c-k-c0x00ffffff-no-rj", Comedy Central
 https://strm.hdtvizlecanli.com/live/comedy.m3u8
 
+#EXTINF:-1 tvg-id="South Park 24/7" tvg-name="South Park" group-title="Entertainment" tvg-logo="https://assets-prd.ignimgs.com/2021/08/09/south-park-generic-1628536994031.jpg?width=300&crop=1%3A1%2Csmart&auto=webp", South Park
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501&serverSideAds=false&checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="South Park Cartman Collection" tvg-name="South Park" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/646b14747cb4b1000875724d/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5", South Park Cartman Collection
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df4934f7f0af0008c32545/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0255-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6f24dcfb-da34-41f5-919b-8bba40f8df5b&checkedby:iptvlister.com
+
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/NyNEDUf6vZUw91UA78V8mbKfalM9ufJ2laC5FmPkofOAA6fW9aXRJvOEfeIUkAEI41Yax0xA=s900-c-k-c0x00ffffff-no-rj", Disney Channel
 http://96.45.207.18:8881/channel/n7323ea49/index.m3u8?q=1735600584362
 
