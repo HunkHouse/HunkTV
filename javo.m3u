@@ -79,7 +79,7 @@ http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png", Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png", Food Network
+#EXTINF:-1 tvg-id="FlavourNetwork" tvg-name="Flavour Network" group-title="Entertainment" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2017/10/Flavour_HERO_Purple_RGB_HighRes.png", Flavour Network
 http://cord-cutter.net:8080/X5xRz0/944877/57247?checkedby:iptvlister.com
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png", MTV
@@ -103,6 +103,18 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/themovies/images/c/c9/Cinemax_%28Yellow%29.svg.png/revision/latest?cb=20180415140157", Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
+#EXTINF:-1 tvg-id="NightmareNetwork" tvg-name="Nightmare Network" group-title="Movies" tvg-logo="https://i.imgur.com/8ZoYaIK.png", Nightmare Network
+http://tvmate.icu:8080/nCqH8t/631017/119429?checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="SouthPark" tvg-name="South Park" group-title="Entertainment" tvg-logo="https://timesdelphic.com/wp-content/uploads/2023/04/commentary.southpark.rbg_.png", South Park
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501&serverSideAds=false&checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection" tvg-name="South Park: Cartman Collection" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/EricCartman.png", South Park: Cartman Collection
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df4934f7f0af0008c32545/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0255-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6f24dcfb-da34-41f5-919b-8bba40f8df5b&checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="SeinfeldNetwork" tvg-name="Seinfeld Network" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seinfeld_logo.svg/2560px-Seinfeld_logo.svg.png", Seinfeld Network
+http://tvmate.icu:8080/nCqH8t/631017/66303?checkedby:iptvlister.com
+
 #EXTINF:-1 tvg-id="ComedyCentral" tvg-name="Comedy Central" group-title="Entertainment" tvg-logo="https://yt3.googleusercontent.com/8r6U3iwDzCuSbNzXbJrni04RdfFQWLYbjq0xyrIJtEI8_jyaLM4JMqdERswsqOsRIUjZtDKj=s900-c-k-c0x00ffffff-no-rj", Comedy Central
 https://strm.hdtvizlecanli.com/live/comedy.m3u8
 
@@ -118,5 +130,5 @@ https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="YTV" tvg-name="YTV" group-title="Kids" tvg-logo="https://i.imgur.com/tQsZoeN.png", YTV
 http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
 
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" group-title="Kids" tvg-logo="https://i.imgur.com/tQsZoeN.png", Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" group-title="Kids" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cartoon-network-1-logo-png-transparent.png", Cartoon Network
 http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/57356?checkedby:iptvlister.com
