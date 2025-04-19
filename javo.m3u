@@ -31,6 +31,9 @@ http://cord-cutter.net:8080/k4Svp2/645504/41836?checkedby:iptvlister.com
 #EXTINF:-1 tvg-id="SportsnetEast" tvg-name="Sportsnet 360" group-title="Sports" tvg-logo="https://photos.newswire.ca/images/20130604_C5201_PHOTO_EN_27536.jpg", Sportsnet 360
 http://cord-cutter.net:8080/zcJ8BG/214917/57299?checkedby:iptvlister.com
 
+#EXTINF:-1 tvg-id="SportsnetWast" tvg-name="Sportsnet WEST" group-title="Sports" tvg-logo="https://photos.newswire.ca/images/20130604_C5201_PHOTO_EN_27536.jpg", Sportsnet WEST
+http://cord-cutter.net:8080/k4Svp2/645504/57300?checkedby:iptvlister.com
+
 #EXTINF:-1 tvg-id="CBSSports" tvg-name="CBS Sports" group-title="Sports" tvg-logo="https://static.cdnlogo.com/logos/c/10/cbs-sports.png", CBS Sports
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
