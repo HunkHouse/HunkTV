@@ -8,10 +8,13 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8&checkedby:iptvlister.com
 
 #EXTINF:-1 tvg-id="CBC" tvg-name="CBC" group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdX1RiX9o3lDGK1G6E4tLCUjoIV5XmsTV7A&s", CBC
-http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/57260?checkedby:iptvlister.com
+http://cord-cutter.net:8080/hq3y4G/234247/57305?checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="CBCOttawa" tvg-name="CBC" group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdX1RiX9o3lDGK1G6E4tLCUjoIV5XmsTV7A&s", CBC Ottawa
+http://cord-cutter.net:8080/hq3y4G/234247/57305?checkedby:iptvlister.com
 
 #EXTINF:-1 tvg-id="Global" tvg-name="Global" group-title="Entertainment" tvg-logo="https://play-lh.googleusercontent.com/mIX4hgfbxsPs4Nu8Gq_uKA2MivSI3GOyOf0Gb-CvlzDW_jcVdYLypCoJbojHGmLtYkQ", Global
-http://cord-cutter.net:8080/hq3y4G/234247/57302?checkedby:iptvlister.com
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/57260?checkedby:iptvlister.com
 
 #EXTINF:-1 tvg-id="CTV" tvg-name="CTV" group-title="Entertainment" tvg-logo="https://www.tidewaterpress.ca/wp-content/uploads/2022/06/CTVNews.jpg", CTV
 http://cord-cutter.net:8080/hq3y4G/234247/47296?checkedby:iptvlister.com
@@ -28,10 +31,14 @@ http://cord-cutter.net:8080/hq3y4G/234247/41836?checkedby:iptvlister.com
 #EXTINF:-1 tvg-id="SportsnetEast" tvg-name="Sportsnet Backup 3" group-title="Sports" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_SportsnetOntario.png", Sportsnet Ontario (Backup 3)
 http://cord-cutter.net:8080/k4Svp2/645504/41836?checkedby:iptvlister.com
 
+#EXTINF:-1 tvg-id="SportsnetEast" tvg-name="Sportsnet Backup 4" group-title="Sports" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_SportsnetOntario.png", Sportsnet Ontario (Backup 4)
+http://tvmate.icu:8080/vNay0H/219352/41836?checkedby:iptvlister.com
+
+
 #EXTINF:-1 tvg-id="SportsnetEast" tvg-name="Sportsnet 360" group-title="Sports" tvg-logo="https://photos.newswire.ca/images/20130604_C5201_PHOTO_EN_27536.jpg", Sportsnet 360
 http://cord-cutter.net:8080/zcJ8BG/214917/57299?checkedby:iptvlister.com
 
-#EXTINF:-1 tvg-id="SportsnetWast" tvg-name="Sportsnet WEST" group-title="Sports" tvg-logo="https://photos.newswire.ca/images/20130604_C5201_PHOTO_EN_27536.jpg", Sportsnet WEST
+#EXTINF:-1 tvg-id="SportsnetWest" tvg-name="Sportsnet WEST" group-title="Sports" tvg-logo="https://photos.newswire.ca/images/20130604_C5201_PHOTO_EN_27536.jpg", Sportsnet WEST
 http://cord-cutter.net:8080/k4Svp2/645504/57300?checkedby:iptvlister.com
 
 #EXTINF:-1 tvg-id="CBSSports" tvg-name="CBS Sports" group-title="Sports" tvg-logo="https://static.cdnlogo.com/logos/c/10/cbs-sports.png", CBS Sports
