@@ -101,6 +101,12 @@ http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png", Bravo
 http://cord-cutter.net:8080/hq3y4G/234247/57379?checkedby:iptvlister.com
 
+#EXTINF:-1 tvg-id="Bravo2" tvg-name="Bravo2" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png", Bravo2
+http://cord-cutter.net:8080/X5xRz0/944877/57379?checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-id="Bravo3" tvg-name="Bravo3" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png", Bravo3
+http://tvmate.icu:8080/vNay0H/219352/57379?checkedby:iptvlister.com
+
 #EXTINF:-1 tvg-id="FlavourNetwork" tvg-name="Flavour Network" group-title="Entertainment" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2017/10/Flavour_HERO_Purple_RGB_HighRes.png", Flavour Network
 http://cord-cutter.net:8080/X5xRz0/944877/57247?checkedby:iptvlister.com
 
