@@ -51,7 +51,10 @@ http://cord-cutter.net:8080/k4Svp2/645504/57300?checkedby:iptvlister.com
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1" tvg-name="TSN1" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png", TSN1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
+https://tvpass.org/live/tsn1/hd
+
+#EXTINF:-1 tvg-id="TSN1 BACKUP" tvg-name="TSN1" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png", TSN1
+https://tvpass.org/live/tsn1/sd
 
 #EXTINF:-1 tvg-id="TSN2" tvg-name="TSN2" group-title="Sports" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork2.png", TSN2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
